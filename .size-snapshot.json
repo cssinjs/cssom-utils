@@ -1,0 +1,31 @@
+{
+  "dist/cssom-utils.js": {
+    "bundled": 16122,
+    "minified": 2622,
+    "gzipped": 1189
+  },
+  "dist/cssom-utils.min.js": {
+    "bundled": 16122,
+    "minified": 2622,
+    "gzipped": 1189
+  },
+  "dist/cssom-utils.cjs.js": {
+    "bundled": 3598,
+    "minified": 1975,
+    "gzipped": 857
+  },
+  "dist/cssom-utils.esm.js": {
+    "bundled": 3192,
+    "minified": 1628,
+    "gzipped": 748,
+    "treeshaked": {
+      "rollup": {
+        "code": 16,
+        "import_statements": 16
+      },
+      "webpack": {
+        "code": 1266
+      }
+    }
+  }
+}
